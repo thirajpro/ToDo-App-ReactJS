@@ -1,0 +1,9 @@
+.todolistContainer {
+  background-color: #eeeeee;
+  width: 500px;
+  margin: 0 auto;
+  border-radius: 4px;
+  padding: 20px;
+  box-shadow: 0 4px 6px rgb(0, 0, 0, 0.3);
+  margin-top: 20px;
+}
